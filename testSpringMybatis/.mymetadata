@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="testMyBatis"
-  id="myeclipse.1464674291733"
-  context-root="/testMyBatis"
+  name="testSpringMybatis"
+  id="myeclipse.1464848203827"
+  context-root="/testSpringMybatis"
   j2ee-spec="6.0"
-  archive="testMyBatis.war">
+  archive="testSpringMybatis.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
