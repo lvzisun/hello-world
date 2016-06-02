@@ -17,14 +17,14 @@
         <value>org.gjt.mm.mysql.Driver</value>  
     </property>  
     <property name="url">  
-        <value>jdbc:mysql://localhost:3306/springmybaitis?useUnicode=true&amp;characterEncoding=UTF-8</value>  
+        <value>jdbc:mysql://localhost:3306/springmybatis?useUnicode=true&amp;characterEncoding=UTF-8</value>  
        <!--springmybaitis是我的数据库  -->
     </property>  
     <property name="username">  
-        <value>root</value>  
+        <value>lvzisun</value>  
     </property>  
     <property name="password">  
-        <value>123456</value>  
+        <value>4444</value>  
     </property>  
 </bean>  
 <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">  
